@@ -61,6 +61,8 @@
             dataGridPedidos = new DataGridView();
             Column = new DataGridViewTextBoxColumn();
             Column2 = new DataGridViewTextBoxColumn();
+            ColumnEdit = new DataGridViewButtonColumn();
+            ColumnRem = new DataGridViewButtonColumn();
             tabControl1.SuspendLayout();
             tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridClient).BeginInit();
@@ -106,10 +108,12 @@
             // 
             // dataGridClient
             // 
+            dataGridClient.AllowUserToAddRows = false;
             dataGridClient.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridClient.Columns.AddRange(new DataGridViewColumn[] { ColumnId, ColumnNome, ColumnCnpj, ColumnCidade, ColumnUF });
             dataGridClient.Location = new Point(6, 32);
             dataGridClient.Name = "dataGridClient";
+            dataGridClient.ReadOnly = true;
             dataGridClient.Size = new Size(896, 380);
             dataGridClient.TabIndex = 0;
             dataGridClient.CellClick += SelecionaCliente;
@@ -118,6 +122,7 @@
             // 
             ColumnId.HeaderText = "Id";
             ColumnId.Name = "ColumnId";
+            ColumnId.ReadOnly = true;
             ColumnId.Width = 50;
             // 
             // ColumnNome
@@ -125,22 +130,26 @@
             ColumnNome.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
             ColumnNome.HeaderText = "Cliente";
             ColumnNome.Name = "ColumnNome";
+            ColumnNome.ReadOnly = true;
             // 
             // ColumnCnpj
             // 
             ColumnCnpj.HeaderText = "Cnpj";
             ColumnCnpj.Name = "ColumnCnpj";
+            ColumnCnpj.ReadOnly = true;
             ColumnCnpj.Width = 150;
             // 
             // ColumnCidade
             // 
             ColumnCidade.HeaderText = "Cidade";
             ColumnCidade.Name = "ColumnCidade";
+            ColumnCidade.ReadOnly = true;
             // 
             // ColumnUF
             // 
             ColumnUF.HeaderText = "UF";
             ColumnUF.Name = "ColumnUF";
+            ColumnUF.ReadOnly = true;
             ColumnUF.Width = 50;
             // 
             // tabPage2
@@ -188,6 +197,7 @@
             // 
             // dataGriditemSelecionado
             // 
+            dataGriditemSelecionado.AllowUserToAddRows = false;
             dataGriditemSelecionado.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGriditemSelecionado.Columns.AddRange(new DataGridViewColumn[] { dataGridViewTextBoxColumn2, dataGridViewTextBoxColumn3, dataGridViewTextBoxColumn4, ColumnQuantidade });
             dataGriditemSelecionado.Location = new Point(394, 21);
@@ -223,6 +233,7 @@
             // 
             // dataGridItem
             // 
+            dataGridItem.AllowUserToAddRows = false;
             dataGridItem.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridItem.Columns.AddRange(new DataGridViewColumn[] { Column1d, dataGridViewTextBoxColumn1, ColumnPreco });
             dataGridItem.Location = new Point(0, 21);
@@ -285,6 +296,7 @@
             // 
             // dataGridViewPItens
             // 
+            dataGridViewPItens.AllowUserToAddRows = false;
             dataGridViewPItens.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridViewPItens.Columns.AddRange(new DataGridViewColumn[] { dataGridViewTextBoxColumn5, dataGridViewTextBoxColumn6, Column1, Column3 });
             dataGridViewPItens.Location = new Point(344, 71);
@@ -320,13 +332,15 @@
             // 
             // dataGridPedidos
             // 
+            dataGridPedidos.AllowUserToAddRows = false;
             dataGridPedidos.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridPedidos.Columns.AddRange(new DataGridViewColumn[] { Column, Column2 });
+            dataGridPedidos.Columns.AddRange(new DataGridViewColumn[] { Column, Column2, ColumnEdit, ColumnRem });
             dataGridPedidos.Location = new Point(6, 71);
             dataGridPedidos.Name = "dataGridPedidos";
             dataGridPedidos.ReadOnly = true;
             dataGridPedidos.Size = new Size(332, 341);
             dataGridPedidos.TabIndex = 0;
+            dataGridPedidos.CellContentClick += RemoverPedido;
             dataGridPedidos.CellDoubleClick += SelecionaPedido;
             // 
             // Column
@@ -342,6 +356,22 @@
             Column2.HeaderText = "Cliente";
             Column2.Name = "Column2";
             Column2.ReadOnly = true;
+            // 
+            // ColumnEdit
+            // 
+            ColumnEdit.HeaderText = "Edit";
+            ColumnEdit.Name = "ColumnEdit";
+            ColumnEdit.ReadOnly = true;
+            ColumnEdit.Resizable = DataGridViewTriState.True;
+            ColumnEdit.SortMode = DataGridViewColumnSortMode.Automatic;
+            ColumnEdit.Width = 40;
+            // 
+            // ColumnRem
+            // 
+            ColumnRem.HeaderText = "Rem";
+            ColumnRem.Name = "ColumnRem";
+            ColumnRem.ReadOnly = true;
+            ColumnRem.Width = 40;
             // 
             // CadPedidos
             // 
@@ -397,9 +427,11 @@
         private DataGridViewTextBoxColumn dataGridViewTextBoxColumn6;
         private DataGridViewTextBoxColumn Column1;
         private DataGridViewTextBoxColumn Column3;
-        private DataGridViewTextBoxColumn Column;
-        private DataGridViewTextBoxColumn Column2;
         private Button button2;
         private TextBox textBoxPesq;
+        private DataGridViewTextBoxColumn Column;
+        private DataGridViewTextBoxColumn Column2;
+        private DataGridViewButtonColumn ColumnEdit;
+        private DataGridViewButtonColumn ColumnRem;
     }
 }

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Pedidos
 {
@@ -113,6 +114,7 @@ namespace Pedidos
                     }
                     model.AddPedido(new Pedidos(id_select, temp[0].Slot_1, temp[1].Slot_1, temp[2].Slot_1, temp[3].Slot_1, temp[4].Slot_1, temp[0].Quantidade_1, temp[1].Quantidade_1, temp[2].Quantidade_1, temp[3].Quantidade_1, temp[4].Quantidade_1));
                     Atualiza();
+                    viewpedido.ClietSelect.Text = "Cliente selecionado:";
                     id_select = 0;
                 }
             }
@@ -159,6 +161,19 @@ namespace Pedidos
             else
             {
                 Atualiza();
+            }
+        }
+        public void RemoverPedido(DataGridViewCellEventArgs e)
+        {
+            if (e.ColumnIndex == viewpedido.TabelaPedidos.Columns["ColumnRem"].Index)
+            {
+                DialogResult dialogo = MessageBox.Show("Deseja exluir o pedido?","Exclusão",MessageBoxButtons.YesNo,MessageBoxIcon.Question);
+                if(dialogo == DialogResult.Yes)
+                {
+                    model.RemPedido(Convert.ToInt32(viewpedido.TabelaPedidos.Rows[e.RowIndex].Cells[0].Value.ToString()));
+                    Atualiza();
+                    viewpedido.TabelaPitens.Rows.Clear();
+                }                          
             }
         }
     }

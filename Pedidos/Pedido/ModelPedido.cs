@@ -18,5 +18,10 @@ namespace Pedidos
             save.SalvarPedidos();
             MessageBox.Show($"Pedido {id_pedido} cadastrado com sucesso!");
         }
+        public void RemPedido(int key)
+        {
+            pedidos.Dpedido.Remove(key);
+            save.SalvarPedidos();
+        }
     }
 }

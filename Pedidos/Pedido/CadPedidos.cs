@@ -21,14 +21,84 @@ namespace Pedidos
         {
             this.controller = controller;
         }
-        public Label ClietSelect { get { return labelClient; } set { labelClient = value; } }
-        public DataGridView TabelaClient { get { return dataGridClient; } set { dataGridClient = value; } }
+        public Label ClietSelect
+        {
+            get
+            {
+                return labelClient;
+            }
+            set
+            {
+                labelClient = value;
+            }
+        }
+        public DataGridView TabelaClient
+        {
+            get
+            {
+                return dataGridClient;
+            }
+            set
+            {
+                dataGridClient = value;
+            }
+        }
 
-        public DataGridView Itens { get { return dataGridItem; } set { dataGridItem = value; } }
-        public DataGridView ItensSelecionados { get { return dataGriditemSelecionado; } set { dataGriditemSelecionado = value; } }
-        public DataGridView TabelaPedidos { get { return dataGridPedidos; } set { dataGridPedidos = value; } }
-        public DataGridView TabelaPitens { get { return dataGridViewPItens; } set { dataGridViewPItens = value; } }
-        public TextBox Pesquisa { get { return textBoxPesq; } set { textBoxPesq = value; } }
+        public DataGridView Itens
+        {
+            get
+            {
+                return dataGridItem;
+            }
+            set
+            {
+                dataGridItem = value;
+            }
+        }
+        public DataGridView ItensSelecionados
+        {
+            get
+            {
+                return dataGriditemSelecionado;
+            }
+            set
+            {
+                dataGriditemSelecionado = value;
+            }
+        }
+        public DataGridView TabelaPedidos
+        {
+            get
+            {
+                return dataGridPedidos;
+            }
+            set
+            {
+                dataGridPedidos = value;
+            }
+        }
+        public DataGridView TabelaPitens
+        {
+            get
+            {
+                return dataGridViewPItens;
+            }
+            set
+            {
+                dataGridViewPItens = value;
+            }
+        }
+        public TextBox Pesquisa
+        {
+            get
+            {
+                return textBoxPesq;
+            }
+            set
+            {
+                textBoxPesq = value;
+            }
+        }
 
         private void SelecionaCliente(object sender, DataGridViewCellEventArgs e)
         {
@@ -67,6 +137,11 @@ namespace Pedidos
         private void PesquisarPedido(object sender, EventArgs e)
         {
             controller.Pesquisar();
+        }
+
+        private void RemoverPedido(object sender, DataGridViewCellEventArgs e)
+        {
+            controller.RemoverPedido(e);
         }
     }
 }

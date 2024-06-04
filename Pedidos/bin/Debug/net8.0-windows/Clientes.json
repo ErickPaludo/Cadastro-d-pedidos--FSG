@@ -34,5 +34,17 @@
     "Logradouro": "ROD GO 080",
     "Uf": "GO",
     "Numero": "SN"
+  },
+  "4": {
+    "Cnpj": "79.379.491/0054-95",
+    "Nome_f": "HAVAN",
+    "Nome": "HAVAN S.A",
+    "Tel": "(47) 3251-5195",
+    "Cep": "79.830-000",
+    "Municipio": "DOURADOS",
+    "Bairro": "JARDIM CARAMURU",
+    "Logradouro": "R MARCELINO PIRES",
+    "Uf": "MS",
+    "Numero": "4118"
   }
 }

@@ -32,9 +32,15 @@ namespace Pedidos
 
                 Dictionary<string, Item> itens = JsonConvert.DeserializeObject<Dictionary<string, Item>>(json);
 
-                foreach (var kvp in itens)
+                try
                 {
-                    item.Ditens.Add(Convert.ToInt32(kvp.Key), kvp.Value);
+                    foreach (var kvp in itens)
+                    {
+                        item.Ditens.Add(Convert.ToInt32(kvp.Key), kvp.Value);
+                    }
+                }
+                catch
+                {
                 }
             }
         }
@@ -42,7 +48,7 @@ namespace Pedidos
         {
             JsonSerializerSettings settings = new JsonSerializerSettings
             {
-                ReferenceLoopHandling = ReferenceLoopHandling.Ignore 
+                ReferenceLoopHandling = ReferenceLoopHandling.Ignore
             };
 
             File.WriteAllText("Clientes.json", JsonConvert.SerializeObject(client.Dclient, Formatting.Indented, settings));
@@ -51,16 +57,22 @@ namespace Pedidos
         {
             if (File.Exists("Clientes.json"))
             {
-             
+
                 string json = File.ReadAllText("Clientes.json");
 
-               
+
                 Dictionary<string, Client> clients = JsonConvert.DeserializeObject<Dictionary<string, Client>>(json);
 
-             
-                foreach (var kvp in clients)
+                try
                 {
-                    client.Dclient.Add(Convert.ToInt32(kvp.Key), kvp.Value);
+                    foreach (var kvp in clients)
+                    {
+                        client.Dclient.Add(Convert.ToInt32(kvp.Key), kvp.Value);
+                    }
+                }
+                catch
+                {
+
                 }
             }
         }
@@ -83,10 +95,16 @@ namespace Pedidos
 
                 Dictionary<string, Pedidos> ped = JsonConvert.DeserializeObject<Dictionary<string, Pedidos>>(json);
 
-
-                foreach (var kvp in ped)
+                try
                 {
-                    pedidos.Dpedido.Add(Convert.ToInt32(kvp.Key), kvp.Value);
+                    foreach (var kvp in ped)
+                    {
+                        pedidos.Dpedido.Add(Convert.ToInt32(kvp.Key), kvp.Value);
+                    }
+                }
+                catch
+                {
+
                 }
             }
         }
