@@ -1,0 +1,82 @@
+{
+  "1": {
+    "Nome_item": "Câmera DSLR Canon EOS Rebel T7",
+    "Preco_item": 499.99
+  },
+  "2": {
+    "Nome_item": "Smartphone Samsung Galaxy S21",
+    "Preco_item": 899.99
+  },
+  "3": {
+    "Nome_item": "Tablet Apple iPad Air",
+    "Preco_item": 599.99
+  },
+  "4": {
+    "Nome_item": "Caixa de som JBL Charge 4",
+    "Preco_item": 129.99
+  },
+  "5": {
+    "Nome_item": "Fone de ouvido Sony WH-1000XM4",
+    "Preco_item": 349.99
+  },
+  "6": {
+    "Nome_item": "Webcam Logitech C920",
+    "Preco_item": 79.99
+  },
+  "7": {
+    "Nome_item": "Roteador TP-Link Archer C6",
+    "Preco_item": 59.99
+  },
+  "8": {
+    "Nome_item": "Hub USB Anker 7 portas",
+    "Preco_item": 24.99
+  },
+  "9": {
+    "Nome_item": "HD externo Seagate Expansion 1TB",
+    "Preco_item": 49.99
+  },
+  "10": {
+    "Nome_item": "Carregador portátil Anker PowerCore 10000",
+    "Preco_item": 29.99
+  },
+  "11": {
+    "Nome_item": "Monitor ultrawide LG 34UM69G",
+    "Preco_item": 299.99
+  },
+  "12": {
+    "Nome_item": "Teclado gamer Razer BlackWidow Elite",
+    "Preco_item": 149.99
+  },
+  "13": {
+    "Nome_item": "Mouse gamer Logitech G502 Hero",
+    "Preco_item": 79.99
+  },
+  "14": {
+    "Nome_item": "Notebook Lenovo ThinkPad X1 Carbon",
+    "Preco_item": 1399.99
+  },
+  "15": {
+    "Nome_item": "Impressora laser Brother HL-L2320D",
+    "Preco_item": 99.99
+  },
+  "16": {
+    "Nome_item": "Smartwatch Apple Watch Series 6",
+    "Preco_item": 399.99
+  },
+  "17": {
+    "Nome_item": "Câmera de segurança Wyze Cam Pan",
+    "Preco_item": 29.99
+  },
+  "18": {
+    "Nome_item": "Roteador mesh Google Nest Wifi",
+    "Preco_item": 149.99
+  },
+  "19": {
+    "Nome_item": "Caixa de som portátil Bose SoundLink Revolve",
+    "Preco_item": 199.99
+  },
+  "20": {
+    "Nome_item": "Fone de ouvido Beats Studio3 Wireless",
+    "Preco_item": 349.99
+  }
+}

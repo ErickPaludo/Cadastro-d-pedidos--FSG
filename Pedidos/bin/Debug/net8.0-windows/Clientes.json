@@ -1,0 +1,38 @@
+{
+  "1": {
+    "Cnpj": "04.152.875/0001-60",
+    "Nome_f": "FULLSOFT INFORMATICA LTDA",
+    "Nome": "FULLSOFT INFORMATICA LTDA",
+    "Tel": "(54) 3226-1100",
+    "Cep": "95.110-195",
+    "Municipio": "CAXIAS DO SUL",
+    "Bairro": "SANVITTO",
+    "Logradouro": "AV THEREZINHA PAULETTI SANVITTO",
+    "Uf": "RS",
+    "Numero": "208"
+  },
+  "2": {
+    "Cnpj": "00.413.707/0004-72",
+    "Nome_f": "BITCOM PROVEDOR DE SERVICOS DE INTERNET LTDA",
+    "Nome": "BITCOM PROVEDOR DE SERVICOS DE INTERNET LTDA",
+    "Tel": "(54) 3209-9000",
+    "Cep": "95.020-412",
+    "Municipio": "CAXIAS DO SUL",
+    "Bairro": "CENTRO",
+    "Logradouro": "RUA BENTO GONCALVES",
+    "Uf": "RS",
+    "Numero": "1118"
+  },
+  "3": {
+    "Cnpj": "00.001.180/0023-31",
+    "Nome_f": "CENTRAIS ELETRICAS BRASILEIRAS SA ELETROBRAS",
+    "Nome": "CENTRAIS ELETRICAS BRASILEIRAS SA ELETROBRAS",
+    "Tel": "(21) 2514-5151",
+    "Cep": "76.390-000",
+    "Municipio": "BARRO ALTO",
+    "Bairro": "SOUZALANDIA",
+    "Logradouro": "ROD GO 080",
+    "Uf": "GO",
+    "Numero": "SN"
+  }
+}

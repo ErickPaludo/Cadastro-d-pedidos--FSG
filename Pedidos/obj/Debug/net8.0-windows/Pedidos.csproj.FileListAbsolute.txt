@@ -1,0 +1,101 @@
+C:\Users\erick\source\Repos\Pedidos\Pedidos\obj\Debug\net8.0-windows\Pedidos.Home.resources
+C:\Users\erick\source\Repos\Pedidos\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.GenerateResource.cache
+C:\Users\erick\source\Repos\Pedidos\Pedidos\obj\Debug\net8.0-windows\Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\Repos\Pedidos\Pedidos\obj\Debug\net8.0-windows\Pedidos.AssemblyInfoInputs.cache
+C:\Users\erick\source\Repos\Pedidos\Pedidos\obj\Debug\net8.0-windows\Pedidos.AssemblyInfo.cs
+C:\Users\erick\source\Repos\Pedidos\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\Repos\Pedidos\Pedidos\bin\Debug\net8.0-windows\Pedidos.exe
+C:\Users\erick\source\Repos\Pedidos\Pedidos\bin\Debug\net8.0-windows\Pedidos.deps.json
+C:\Users\erick\source\Repos\Pedidos\Pedidos\bin\Debug\net8.0-windows\Pedidos.runtimeconfig.json
+C:\Users\erick\source\Repos\Pedidos\Pedidos\bin\Debug\net8.0-windows\Pedidos.dll
+C:\Users\erick\source\Repos\Pedidos\Pedidos\bin\Debug\net8.0-windows\Pedidos.pdb
+C:\Users\erick\source\Repos\Pedidos\Pedidos\obj\Debug\net8.0-windows\Pedidos.dll
+C:\Users\erick\source\Repos\Pedidos\Pedidos\obj\Debug\net8.0-windows\refint\Pedidos.dll
+C:\Users\erick\source\Repos\Pedidos\Pedidos\obj\Debug\net8.0-windows\Pedidos.pdb
+C:\Users\erick\source\Repos\Pedidos\Pedidos\obj\Debug\net8.0-windows\Pedidos.genruntimeconfig.cache
+C:\Users\erick\source\Repos\Pedidos\Pedidos\obj\Debug\net8.0-windows\ref\Pedidos.dll
+C:\Users\erick\source\Repos\Pedidos\Pedidos\obj\Debug\net8.0-windows\Pedidos.CadItem.resources
+C:\Users\erick\source\Repos\Pedidos\Pedidos\obj\Debug\net8.0-windows\Pedidos.CadClient.resources
+C:\Users\erick\source\Repos\Pedidos\Pedidos\obj\Debug\net8.0-windows\Pedidos.CadPedidos.resources
+C:\Users\erick\source\Repos\Pedidos\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.AssemblyReference.cache
+C:\Users\erick\source\Repos\Pedidos\Pedidos\bin\Debug\net8.0-windows\Jason.dll
+C:\Users\erick\source\Repos\Pedidos\Pedidos\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\erick\source\Repos\Pedidos\Pedidos\bin\Debug\net8.0-windows\Radical.dll
+C:\Users\erick\source\Repos\Pedidos\Pedidos\bin\Debug\net8.0-windows\it-IT\Radical.resources.dll
+C:\Users\erick\source\Repos\Pedidos\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.Up2Date
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\bin\Debug\net8.0-windows\Pedidos.exe
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\bin\Debug\net8.0-windows\Pedidos.deps.json
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\bin\Debug\net8.0-windows\Pedidos.runtimeconfig.json
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\bin\Debug\net8.0-windows\Pedidos.dll
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\bin\Debug\net8.0-windows\Pedidos.pdb
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\bin\Debug\net8.0-windows\Jason.dll
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\bin\Debug\net8.0-windows\Radical.dll
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\bin\Debug\net8.0-windows\it-IT\Radical.resources.dll
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.AssemblyReference.cache
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.CadClient.resources
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.Home.resources
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.CadItem.resources
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.CadPedidos.resources
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.GenerateResource.cache
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.AssemblyInfoInputs.cache
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.AssemblyInfo.cs
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.sourcelink.json
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.CopyComplete
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.dll
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\refint\Pedidos.dll
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.pdb
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.genruntimeconfig.cache
+C:\Users\Erick\Desktop\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\ref\Pedidos.dll
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\bin\Debug\net8.0-windows\Pedidos.exe
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\bin\Debug\net8.0-windows\Pedidos.deps.json
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\bin\Debug\net8.0-windows\Pedidos.runtimeconfig.json
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\bin\Debug\net8.0-windows\Pedidos.dll
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\bin\Debug\net8.0-windows\Pedidos.pdb
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\bin\Debug\net8.0-windows\Jason.dll
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\bin\Debug\net8.0-windows\Radical.dll
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\bin\Debug\net8.0-windows\it-IT\Radical.resources.dll
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.CadClient.resources
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.Home.resources
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.CadItem.resources
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.CadPedidos.resources
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.Up2Date
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.dll
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\refint\Pedidos.dll
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.pdb
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\ref\Pedidos.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\bin\Debug\net8.0-windows\Pedidos.exe
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\bin\Debug\net8.0-windows\Pedidos.deps.json
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\bin\Debug\net8.0-windows\Pedidos.runtimeconfig.json
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\bin\Debug\net8.0-windows\Pedidos.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\bin\Debug\net8.0-windows\Pedidos.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\bin\Debug\net8.0-windows\Jason.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\bin\Debug\net8.0-windows\Radical.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\bin\Debug\net8.0-windows\it-IT\Radical.resources.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.CadClient.resources
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.Home.resources
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.CadItem.resources
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.CadPedidos.resources
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.GenerateResource.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.Up2Date
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\refint\Pedidos.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\Pedidos.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG-master\Cadastro-d-pedidos--FSG-master\Pedidos\obj\Debug\net8.0-windows\ref\Pedidos.dll
