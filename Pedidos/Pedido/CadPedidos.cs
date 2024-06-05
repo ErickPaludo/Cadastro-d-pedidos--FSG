@@ -99,6 +99,9 @@ namespace Pedidos
                 textBoxPesq = value;
             }
         }
+        public TabPage Pedidos_client { get { return tabPage1; } set { tabPage1 = value; } }
+        public TabPage Pedidos_itens { get { return tabPage2; } set { tabPage2 = value; } }
+        public TabPage Pedidos { get { return tabPage2; } set { tabPage2 = value; } }
 
         private void SelecionaCliente(object sender, DataGridViewCellEventArgs e)
         {
@@ -139,9 +142,14 @@ namespace Pedidos
             controller.Pesquisar();
         }
 
-        private void RemoverPedido(object sender, DataGridViewCellEventArgs e)
+        private void BotoesTabela(object sender, DataGridViewCellEventArgs e)
         {
-            controller.RemoverPedido(e);
+            controller.FunctionBts(e);
+        }
+
+        private void DefaultId(object sender, FormClosedEventArgs e)
+        {
+            controller.DafaltId();
         }
     }
 }

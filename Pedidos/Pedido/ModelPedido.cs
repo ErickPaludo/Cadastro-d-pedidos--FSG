@@ -18,6 +18,12 @@ namespace Pedidos
             save.SalvarPedidos();
             MessageBox.Show($"Pedido {id_pedido} cadastrado com sucesso!");
         }
+        public void Editor(int id,Pedidos dados)
+        {
+            pedidos.Dpedido[id] = ( new Pedidos(dados.Id_client, dados.Slot_1, dados.Slot_2, dados.Slot_3, dados.Slot_4, dados.Slot_5, dados.Quantidade_1, dados.Quantidade_2, dados.Quantidade_3, dados.Quantidade_4, dados.Quantidade_5));
+            save.SalvarPedidos();
+            MessageBox.Show($"Pedido {id} alterado com sucesso!");
+        }
         public void RemPedido(int key)
         {
             pedidos.Dpedido.Remove(key);

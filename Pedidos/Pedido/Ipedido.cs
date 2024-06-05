@@ -17,5 +17,8 @@ namespace Pedidos
         DataGridView TabelaPedidos { get; set; }
         DataGridView TabelaPitens { get; set; }
         TextBox Pesquisa { get; set; } 
+        TabPage Pedidos_client {  get; set; }
+        TabPage Pedidos_itens { get; set; }
+        TabPage Pedidos { get; set; }
     }
 }

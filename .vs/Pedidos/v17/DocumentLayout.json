@@ -1,65 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\",
+  "WorkspaceRootPath": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\cadastro-d-pedidos--fsg-master\\cadastro-d-pedidos--fsg-master\\pedidos\\pedido\\controllerpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\cadastro-d-pedidos--fsg\\pedidos\\pedido\\controllerpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\pedido\\controllerpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\pedidos\\pedido\\modelpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\pedido\\modelpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\pedidos\\pedido\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\pedido\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\pedidos\\pedido\\cadpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\pedidos\\pedido\\cadpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\pedido\\cadpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\cadastro-d-pedidos--fsg-master\\cadastro-d-pedidos--fsg-master\\pedidos\\salvardados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\salvardados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\bin\\Debug\\net8.0-windows\\Pedidos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pedidos\\bin\\Debug\\net8.0-windows\\Pedidos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\bin\\Debug\\net8.0-windows\\Itens.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pedidos\\bin\\Debug\\net8.0-windows\\Itens.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\pedidos\\pedido\\cadpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\cadastro-d-pedidos--fsg\\pedidos\\pedido\\cadpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\pedido\\cadpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\pedidos\\pedido\\ipedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\pedidos\\pedido\\ipedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\pedido\\ipedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\pedidos\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\pedidos\\pedido\\modelpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\pedido\\modelpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\pedidos\\pedido\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\pedido\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\bin\\Debug\\net8.0-windows\\Itens.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pedidos\\bin\\Debug\\net8.0-windows\\Itens.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\pedidos\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|c:\\users\\erick\\onedrive\\\u00E1rea de trabalho\\cadastro-d-pedidos--fsg-master\\cadastro-d-pedidos--fsg-master\\pedidos\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\pedidos\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\pedidos\\cliente\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\pedidos\\cliente\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\cliente\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\pedidos\\cliente\\modeclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\pedidos\\cliente\\modeclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\cliente\\modeclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\pedidos\\item\\modelitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\pedidos\\item\\modelitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\item\\modelitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\pedidos\\cliente\\cadclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\pedidos\\cliente\\cadclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{79FF1E94-C429-46FC-9297-BF4E84B127C2}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\cliente\\cadclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -70,43 +62,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Pedidos.json",
-              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\bin\\Debug\\net8.0-windows\\Pedidos.json",
-              "RelativeDocumentMoniker": "Pedidos\\bin\\Debug\\net8.0-windows\\Pedidos.json",
-              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\bin\\Debug\\net8.0-windows\\Pedidos.json",
-              "RelativeToolTip": "Pedidos\\bin\\Debug\\net8.0-windows\\Pedidos.json",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAACYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-04T01:58:38.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SalvarDados.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\SalvarDados.cs",
-              "RelativeDocumentMoniker": "Pedidos\\SalvarDados.cs",
-              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\SalvarDados.cs",
-              "RelativeToolTip": "Pedidos\\SalvarDados.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAawEMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T01:55:54.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CadPedidos.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Pedido\\CadPedidos.cs",
+              "DocumentIndex": 2,
+              "Title": "CadPedidos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Pedido\\CadPedidos.cs",
               "RelativeDocumentMoniker": "Pedidos\\Pedido\\CadPedidos.cs",
-              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Pedido\\CadPedidos.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Pedido\\CadPedidos.cs [Projeto]",
+              "RelativeToolTip": "Pedidos\\Pedido\\CadPedidos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:00:41.931Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadPedidos.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Pedido\\CadPedidos.cs",
+              "RelativeDocumentMoniker": "Pedidos\\Pedido\\CadPedidos.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Pedido\\CadPedidos.cs",
               "RelativeToolTip": "Pedidos\\Pedido\\CadPedidos.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAswDoAAAAgAAAA",
+              "ViewState": "AQIAAHkAAAAAAAAAAIAzwIgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T01:10:27.192Z",
               "EditorCaption": ""
@@ -115,22 +93,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ControllerPedido.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Pedido\\ControllerPedido.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Pedido\\ControllerPedido.cs",
               "RelativeDocumentMoniker": "Pedidos\\Pedido\\ControllerPedido.cs",
-              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Pedido\\ControllerPedido.cs",
-              "RelativeToolTip": "Pedidos\\Pedido\\ControllerPedido.cs",
-              "ViewState": "AQIAAHsAAAAAAAAAAAAlwIUAAAAyAAAA",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Pedido\\ControllerPedido.cs*",
+              "RelativeToolTip": "Pedidos\\Pedido\\ControllerPedido.cs*",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAowNwAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T14:43:21.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ModelPedido.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Pedido\\ModelPedido.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Pedido\\ModelPedido.cs",
               "RelativeDocumentMoniker": "Pedidos\\Pedido\\ModelPedido.cs",
-              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Pedido\\ModelPedido.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Pedido\\ModelPedido.cs",
               "RelativeToolTip": "Pedidos\\Pedido\\ModelPedido.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAawBAAAACZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,62 +117,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Home.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Home.cs",
-              "RelativeDocumentMoniker": "Pedidos\\Home.cs",
-              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Home.cs",
-              "RelativeToolTip": "Pedidos\\Home.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T18:24:21.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CadPedidos.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Pedido\\CadPedidos.cs",
-              "RelativeDocumentMoniker": "Pedidos\\Pedido\\CadPedidos.cs",
-              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Pedido\\CadPedidos.cs [Projeto]",
-              "RelativeToolTip": "Pedidos\\Pedido\\CadPedidos.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T01:07:06.032Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pedidos.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Pedido\\Pedidos.cs",
-              "RelativeDocumentMoniker": "Pedidos\\Pedido\\Pedidos.cs",
-              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Pedido\\Pedidos.cs",
-              "RelativeToolTip": "Pedidos\\Pedido\\Pedidos.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAIwEcAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T14:43:40.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Itens.json",
-              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\bin\\Debug\\net8.0-windows\\Itens.json",
-              "RelativeDocumentMoniker": "Pedidos\\bin\\Debug\\net8.0-windows\\Itens.json",
-              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\bin\\Debug\\net8.0-windows\\Itens.json",
-              "RelativeToolTip": "Pedidos\\bin\\Debug\\net8.0-windows\\Itens.json",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAFIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-04T02:26:59.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Ipedido.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Pedido\\Ipedido.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Pedido\\Ipedido.cs",
               "RelativeDocumentMoniker": "Pedidos\\Pedido\\Ipedido.cs",
-              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Pedido\\Ipedido.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Pedido\\Ipedido.cs",
               "RelativeToolTip": "Pedidos\\Pedido\\Ipedido.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAADwvxIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,36 +130,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Home.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Home.cs",
+              "DocumentIndex": 7,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Home.cs",
               "RelativeDocumentMoniker": "Pedidos\\Home.cs",
-              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Home.cs [Projeto]",
-              "RelativeToolTip": "Pedidos\\Home.cs [Projeto]",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Home.cs",
+              "RelativeToolTip": "Pedidos\\Home.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T02:01:38.728Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2024-06-02T18:24:21.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Pedido\\Pedidos.cs",
+              "RelativeDocumentMoniker": "Pedidos\\Pedido\\Pedidos.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Pedido\\Pedidos.cs",
+              "RelativeToolTip": "Pedidos\\Pedido\\Pedidos.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwEcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:43:40.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Itens.json",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\bin\\Debug\\net8.0-windows\\Itens.json",
+              "RelativeDocumentMoniker": "Pedidos\\bin\\Debug\\net8.0-windows\\Itens.json",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\bin\\Debug\\net8.0-windows\\Itens.json",
+              "RelativeToolTip": "Pedidos\\bin\\Debug\\net8.0-windows\\Itens.json",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T02:26:59.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Home.cs",
+              "RelativeDocumentMoniker": "Pedidos\\Home.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Home.cs [Projeto]",
+              "RelativeToolTip": "..\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Home.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T02:01:38.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Cliente\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Cliente\\Cliente.cs",
               "RelativeDocumentMoniker": "Pedidos\\Cliente\\Cliente.cs",
-              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Cliente\\Cliente.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Cliente\\Cliente.cs",
               "RelativeToolTip": "Pedidos\\Cliente\\Cliente.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAkwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T02:26:04.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T02:26:04.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "ModeClient.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Cliente\\ModeClient.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Cliente\\ModeClient.cs",
               "RelativeDocumentMoniker": "Pedidos\\Cliente\\ModeClient.cs",
-              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Cliente\\ModeClient.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Cliente\\ModeClient.cs",
               "RelativeToolTip": "Pedidos\\Cliente\\ModeClient.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -240,11 +201,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "ModelItem.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Item\\ModelItem.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Item\\ModelItem.cs",
               "RelativeDocumentMoniker": "Pedidos\\Item\\ModelItem.cs",
-              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Item\\ModelItem.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Item\\ModelItem.cs",
               "RelativeToolTip": "Pedidos\\Item\\ModelItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -252,12 +213,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "CadClient.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG-master\\Cadastro-d-pedidos--FSG-master\\Pedidos\\Cliente\\CadClient.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\\u00C1rea de Trabalho\\Cadastro-d-pedidos--FSG\\Pedidos\\Cliente\\CadClient.cs",
               "RelativeDocumentMoniker": "Pedidos\\Cliente\\CadClient.cs",
               "ToolTip": "C:\\Users\\erick\\source\\Repos\\Pedidos\\Pedidos\\Cliente\\CadClient.cs [Projeto]",
-              "RelativeToolTip": "..\\..\\..\\..\\source\\Repos\\Pedidos\\Pedidos\\Cliente\\CadClient.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\source\\Repos\\Pedidos\\Pedidos\\Cliente\\CadClient.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T16:06:40.965Z"
             }

@@ -5,6 +5,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Topics.Radical.Model;
 
 namespace Pedidos
 {
@@ -15,7 +16,8 @@ namespace Pedidos
         Client client = new Client();
         Item item = new Item();
         Pedidos pedidos = new Pedidos();
-        static int id_select;
+        static int id_select,id_pedido;
+        bool edit = false;
         public ControllerPedido()
         {
         }
@@ -112,10 +114,23 @@ namespace Pedidos
                             temp.Add(new Pedidos(0, 0));
                         }
                     }
-                    model.AddPedido(new Pedidos(id_select, temp[0].Slot_1, temp[1].Slot_1, temp[2].Slot_1, temp[3].Slot_1, temp[4].Slot_1, temp[0].Quantidade_1, temp[1].Quantidade_1, temp[2].Quantidade_1, temp[3].Quantidade_1, temp[4].Quantidade_1));
-                    Atualiza();
-                    viewpedido.ClietSelect.Text = "Cliente selecionado:";
-                    id_select = 0;
+                    if (edit == false)
+                    {
+                        model.AddPedido(new Pedidos(id_select, temp[0].Slot_1, temp[1].Slot_1, temp[2].Slot_1, temp[3].Slot_1, temp[4].Slot_1, temp[0].Quantidade_1, temp[1].Quantidade_1, temp[2].Quantidade_1, temp[3].Quantidade_1, temp[4].Quantidade_1));
+                        Atualiza();
+                        viewpedido.ClietSelect.Text = "Cliente selecionado:";
+                        id_select = 0;
+                    }
+                    else
+                    {
+                        model.Editor(id_pedido,new Pedidos(id_select, temp[0].Slot_1, temp[1].Slot_1, temp[2].Slot_1, temp[3].Slot_1, temp[4].Slot_1, temp[0].Quantidade_1, temp[1].Quantidade_1, temp[2].Quantidade_1, temp[3].Quantidade_1, temp[4].Quantidade_1));
+                        Atualiza();
+                        viewpedido.ClietSelect.Text = "Cliente selecionado:";
+                        id_select = 0;
+                        viewpedido.TabelaPedidos.Enabled = true;
+                        viewpedido.TabelaPitens.Enabled = true;
+                        viewpedido.Pesquisa.Enabled = true;
+                    }
                 }
             }
             else
@@ -163,18 +178,78 @@ namespace Pedidos
                 Atualiza();
             }
         }
-        public void RemoverPedido(DataGridViewCellEventArgs e)
+        public void FunctionBts(DataGridViewCellEventArgs e)
         {
-            if (e.ColumnIndex == viewpedido.TabelaPedidos.Columns["ColumnRem"].Index)
+            if (e.ColumnIndex == viewpedido.TabelaPedidos.Columns[3].Index)
             {
-                DialogResult dialogo = MessageBox.Show("Deseja exluir o pedido?","Exclusão",MessageBoxButtons.YesNo,MessageBoxIcon.Question);
-                if(dialogo == DialogResult.Yes)
+                int id = Convert.ToInt32(viewpedido.TabelaPedidos.Rows[e.RowIndex].Cells[0].Value.ToString());
+                DialogResult dialogo = MessageBox.Show("Deseja exluir o pedido?", "Exclusão", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                if (dialogo == DialogResult.Yes)
                 {
-                    model.RemPedido(Convert.ToInt32(viewpedido.TabelaPedidos.Rows[e.RowIndex].Cells[0].Value.ToString()));
+                    model.RemPedido(id);
                     Atualiza();
                     viewpedido.TabelaPitens.Rows.Clear();
-                }                          
+                }
+            }
+            else if (e.ColumnIndex == viewpedido.TabelaPedidos.Columns[2].Index)
+            {
+                id_pedido = Convert.ToInt32(viewpedido.TabelaPedidos.Rows[e.RowIndex].Cells[0].Value.ToString());
+                DialogResult dialogo = MessageBox.Show("Deseja editar o pedido?", "Edição", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                if (dialogo == DialogResult.Yes)
+                {
+                    edit = true;
+                    MessageBox.Show($"Pedido {id_pedido} selecionado");
+                    viewpedido.TabelaPedidos.Enabled = false;
+                    viewpedido.TabelaPitens.Enabled = false;
+                    viewpedido.Pesquisa.Enabled = false;
+                    Atualiza();
+
+                    List<int> itens_pedidos = new List<int>();
+                    viewpedido.ItensSelecionados.Rows.Clear();
+                    foreach (var obj in pedidos.Dpedido)
+                    {
+                       
+                        if (obj.Key == id_pedido)
+                        {
+                            id_select = obj.Value.Id_client;
+                            for (int i = 1; i <= 5; i++)
+                            {
+                                string id = $"Slot_{i}";
+                                string qtn = $"Quantidade_{i}";
+                                PropertyInfo id_item = typeof(Pedidos).GetProperty(id);
+                                PropertyInfo quantidade = typeof(Pedidos).GetProperty(qtn);
+                                int slotValue = (int)id_item.GetValue(obj.Value);
+                                int slotQuant = (int)quantidade.GetValue(obj.Value);
+
+                                if (slotValue != 0)
+                                {
+                                    itens_pedidos.Add(slotValue);
+                                    Item dados = item.Ditens[slotValue];
+                                    viewpedido.ItensSelecionados.Rows.Add(slotValue, dados.Nome_item, slotQuant, dados.Preco_item);
+                                }
+                            }
+                        }
+                    }
+                    for (int i = viewpedido.Itens.Rows.Count - 1; i >= 0; i--)
+                    {
+                        if (int.TryParse(viewpedido.Itens.Rows[i].Cells[0].Value?.ToString(), out int id))
+                        {
+                           
+                            if (itens_pedidos.Contains(id))
+                            {
+                                viewpedido.Itens.Rows.RemoveAt(i);
+                            }
+                        }
+                    }
+                  
+                }
             }
         }
+        public void DafaltId()
+        {
+            id_pedido = 0;
+        }
+
+
     }
 }

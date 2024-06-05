@@ -340,7 +340,7 @@
             dataGridPedidos.ReadOnly = true;
             dataGridPedidos.Size = new Size(332, 341);
             dataGridPedidos.TabIndex = 0;
-            dataGridPedidos.CellContentClick += RemoverPedido;
+            dataGridPedidos.CellContentClick += BotoesTabela;
             dataGridPedidos.CellDoubleClick += SelecionaPedido;
             // 
             // Column
@@ -381,6 +381,7 @@
             Controls.Add(tabControl1);
             Name = "CadPedidos";
             Text = "CadPedidos";
+            FormClosed += DefaultId;
             tabControl1.ResumeLayout(false);
             tabPage1.ResumeLayout(false);
             tabPage1.PerformLayout();
