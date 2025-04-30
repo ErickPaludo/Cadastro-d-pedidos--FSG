@@ -125,3 +125,29 @@ C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG\Pedidos\obj\De
 C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.pdb
 C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.genruntimeconfig.cache
 C:\Users\erick\OneDrive\Área de Trabalho\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\ref\Pedidos.dll
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\bin\Debug\net8.0-windows\Pedidos.exe
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\bin\Debug\net8.0-windows\Pedidos.deps.json
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\bin\Debug\net8.0-windows\Pedidos.runtimeconfig.json
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\bin\Debug\net8.0-windows\Pedidos.dll
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\bin\Debug\net8.0-windows\Pedidos.pdb
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\bin\Debug\net8.0-windows\Jason.dll
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\bin\Debug\net8.0-windows\Radical.dll
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\bin\Debug\net8.0-windows\it-IT\Radical.resources.dll
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.AssemblyReference.cache
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.CadClient.resources
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.Home.resources
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.CadItem.resources
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.CadPedidos.resources
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.GenerateResource.cache
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.AssemblyInfoInputs.cache
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.AssemblyInfo.cs
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.CoreCompileInputs.cache
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.sourcelink.json
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.Up2Date
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.dll
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\refint\Pedidos.dll
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.pdb
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\Pedidos.genruntimeconfig.cache
+C:\Fullsoft\Estudos\Cadastro-d-pedidos--FSG\Pedidos\obj\Debug\net8.0-windows\ref\Pedidos.dll

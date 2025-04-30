@@ -1,5 +1,7 @@
 {
   "1": {
+    "Itens": null,
+    "qtdtotal": 0,
     "Slot_1": 3,
     "Slot_2": 9,
     "Slot_3": 10,
@@ -13,6 +15,8 @@
     "Id_client": 3
   },
   "2": {
+    "Itens": null,
+    "qtdtotal": 0,
     "Slot_1": 4,
     "Slot_2": 5,
     "Slot_3": 6,
@@ -24,5 +28,61 @@
     "Quantidade_4": 1,
     "Quantidade_5": 1,
     "Id_client": 4
+  },
+  "3": {
+    "Itens": [
+      {
+        "Id": 1,
+        "Quantidade": 1
+      },
+      {
+        "Id": 20,
+        "Quantidade": 1
+      },
+      {
+        "Id": 13,
+        "Quantidade": 1
+      },
+      {
+        "Id": 14,
+        "Quantidade": 1
+      },
+      {
+        "Id": 8,
+        "Quantidade": 1
+      },
+      {
+        "Id": 9,
+        "Quantidade": 1
+      },
+      {
+        "Id": 11,
+        "Quantidade": 1
+      },
+      {
+        "Id": 2,
+        "Quantidade": 1
+      },
+      {
+        "Id": 15,
+        "Quantidade": 1
+      },
+      {
+        "Id": 18,
+        "Quantidade": 1
+      }
+    ],
+    "qtdtotal": 10,
+    "Slot_1": 0,
+    "Slot_2": 0,
+    "Slot_3": 0,
+    "Slot_4": 0,
+    "Slot_5": 0,
+    "Quantidade_1": 0,
+    "Quantidade_2": 0,
+    "Quantidade_3": 0,
+    "Quantidade_4": 0,
+    "Quantidade_5": 0,
+    "Id_client": 1
   }
 }

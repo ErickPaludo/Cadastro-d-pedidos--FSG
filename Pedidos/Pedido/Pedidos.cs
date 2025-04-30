@@ -7,12 +7,18 @@ using Topics.Radical.Conversions;
 
 namespace Pedidos
 {
+    public class ItensPedidos
+    {
+        public int Id { get; set; }
+        public int Quantidade { get; set; }
+    }
     public class Pedidos
     {
         private int id_client;
         private int slot_1, slot_2, slot_3, slot_4, slot_5;
         private int quantidade, quantidade_2, quantidade_3, quantidade_4, quantidade_5;
-
+        public List<ItensPedidos> Itens { get; set; }
+        public int qtdtotal { get; set; }
         public int Slot_1
         {
             get
@@ -68,7 +74,6 @@ namespace Pedidos
                 slot_5 = value;
             }
         }
-   
         public int Quantidade_1
         {
             get
@@ -124,7 +129,6 @@ namespace Pedidos
                 quantidade_5 = value;
             }
         }
-
         public int Id_client
         {
             get
@@ -145,7 +149,6 @@ namespace Pedidos
                 return dpedido;
             }
         }
-
         public Pedidos()
         {
         }
@@ -162,6 +165,13 @@ namespace Pedidos
             this.quantidade_3 = quantidade_3;
             this.quantidade_4 = quantidade_4;
             this.quantidade_5 = quantidade_5;
+        }
+        public Pedidos(int id_client,
+List<ItensPedidos> itens, int qtdtotal)
+        {
+            this.id_client = id_client;
+            this.Itens = itens;
+            this.qtdtotal = qtdtotal;
         }
 
         public Pedidos(int id_item, int quantidade)
